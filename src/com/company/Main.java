@@ -7,6 +7,12 @@ public class Main {
         System.out.print("xiecheng");
 	    System.out.print("xiecheng1");
         System.out.print("xiecheng2");
+        System.out.print("xiecheng");
+        System.out.print("xiecheng1");
+        System.out.print("xiecheng2");
+        System.out.print("xiecheng");
+        System.out.print("xiecheng1");
+        System.out.print("xiecheng2");
 
     }
 }
